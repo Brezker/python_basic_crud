@@ -1,7 +1,7 @@
 import sys
 # import os
 # here you have to put your path app folder
-sys.path.insert(1,'/home/jul/codes/julian/')
+sys.path.insert(1,'.')
 from datos.conexBD import *
 from negocio.Ins_est import *
 from negocio.Sho_est import *
